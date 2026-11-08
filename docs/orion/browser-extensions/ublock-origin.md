@@ -1,6 +1,6 @@
 # uBlock Origin on macOS
 
-<img src="./media/ublock.jpeg" width="150" alt="uBlock Origin Logo"><br />
+<img src="./media/ublock.svg" width="150" alt="uBlock Origin Logo"><br />
 
 Users of the [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin) browser extension for content filtering are a passionate bunch. When we tell them Orion allows them to run uBlock in a WebKit-based browser on macOS, some have cried. But, they've assured us these are tears of joy!
 
